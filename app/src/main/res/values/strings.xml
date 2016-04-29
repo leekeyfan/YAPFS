@@ -1,0 +1,11 @@
+<resources>
+    <string name = "app_name">This is YAPF</string>
+
+    <string name = "hello_world">Hello world!</string>
+    <string name = "action_settings">Settings</string>
+    <string name = "title_activity_welcome">Welcome</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name = "hello_blank_fragment">Hello blank fragment</string>
+    <string name = "title_activity_setting">设置</string>
+</resources>
